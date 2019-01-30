@@ -1,0 +1,1 @@
+console.log('this is the content of the app2.js file');
